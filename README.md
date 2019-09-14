@@ -1,4 +1,7 @@
 # Chomp game 
+Rules:
+Player begins with a rectangular bar of chocolate, itself composed of smaller squares. Player and computer take it in turns to snap off - and eat - a lump of chocolate. However the top-left square has been poisoned. The who has to eat the poisoned piece.
+
 Compile/Run Instructions:
 1.  Ensure the folder hierarchy is maintained during extraction
 2. Open Terminal/Command Prompt
